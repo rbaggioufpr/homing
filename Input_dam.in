@@ -1,0 +1,12 @@
+300		!n: total number of generations
+4  40	 	!L: Number of tributaries, N: Carrying capacity
+500  500  0.0000001    !g: number of loci, maximum number of different loci for 2 individuals reproduce, μ: mutation rate
+0.1 0.01	        !d: mortality rate, m: migration rate
+1              !interval (in generations) for Fst calculations   
+5              !number of runs 
+2	!b: tributary where the dam is added
+200 !ndam: generation when the river os dammed
+0.0 !p_up: permeability upstream
+0.0 !p_down: permeability downstream
+
+
